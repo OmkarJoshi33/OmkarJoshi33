@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Joshi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">M.Sc. CS Student | Passionate About Front-End Development| Thrilled to Build Engaging and Responsive Web Interfaces</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarjoshi33&label=Profile%20views&color=0e75b6&style=flat" alt="omkarjoshi33" /> </p>
 
